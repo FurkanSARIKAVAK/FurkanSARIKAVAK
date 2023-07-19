@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🥷 About Me:
 🖐Hi, I'm Furkan!<br>🏫I am studying at Pamukkale University, department of Management Information Systems.<br>💻My software education continues at the university, but I also develop myself in the field of web development.<br>🚀Every day I get closer to my dreams.
 
 
