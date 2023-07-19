@@ -1,6 +1,8 @@
 # 🥷 About Me:
 🖐Hi, I'm Furkan!<br>🏫I am studying at Pamukkale University, department of Management Information Systems.<br>💻My software education continues at the university, but I also develop myself in the field of web development.<br>🚀Every day I get closer to my dreams.
 
+![image](https://github.com/FurkanSARIKAVAK/FurkanSARIKAVAK/assets/126673794/3512a75c-5485-4a14-8fb9-4e5663694cdb)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkan-sarikavak-467185252/) 
