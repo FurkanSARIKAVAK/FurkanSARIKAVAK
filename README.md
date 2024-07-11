@@ -2,9 +2,6 @@
 🖐Hi, I'm Furkan!<br>🏫I am studying at Pamukkale University, department of Management Information Systems.<br>💻My software education continues at the university, but I also develop myself in the field of web development.<br>🚀Every day I get closer to my dreams.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/furkan-sarikavak/) 
-
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
